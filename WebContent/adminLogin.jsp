@@ -12,7 +12,7 @@
 <body>
 	<div align="center">
 	
-		<p class="siteName">管 理 员 登 陆</p>
+		<p class="siteName">管 理 员 登 录</p>
 	</div>
 	<div id="pagecell1">
 
